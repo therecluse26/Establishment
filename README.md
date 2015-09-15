@@ -1,8 +1,8 @@
-# Casper
+# CasperEMS
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Edit of the default theme for [Ghost](http://github.com/tryghost/ghost/). 
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Added facebook comments, social media links and changed responsiveness/fonts
 
 ## Copyright & License
 
